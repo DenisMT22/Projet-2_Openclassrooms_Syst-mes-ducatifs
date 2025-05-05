@@ -32,16 +32,27 @@ Phase préliminaire d'exploration
 # Expertise technique acquise
 
 Jupyter - Environnement de calcul interactif
+
 Spyder - Environnement de développement Python scientifique
+
 Python - Langage de programmation
+
 Pandas - Bibliothèque de manipulation et d'analyse de données
+
 NumPy - Bibliothèque de calcul numérique
+
 Learn (sklearn) - Bibliothèque d'apprentissage automatique
+
 GeoPandas - Extension d'analyse de données géospatiales pour pandas
+
 Matplotlib - Bibliothèque de visualisation
+
 Seaborn - Bibliothèque de visualisation statistique
+
 Statsmodels - Bibliothèque de modélisation statistique
+
 MissingNo - Bibliothèque pour visualiser les données manquantes
+
 IPython - Interface de calcul interactive
 
 # Résultats
