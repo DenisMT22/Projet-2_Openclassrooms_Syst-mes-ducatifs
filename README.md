@@ -1,1 +1,1 @@
-# Projet-2_Openclassrooms_Syst-mes-ducatifs
+# Projet-2_Openclassrooms_Systemes-educatifs
